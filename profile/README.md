@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+We are Minecraft 1.7.10 modded project with different servers  
+Our website is [dreamfinity.org](https://dreamfinity.org)
 <!--
 
 **Here are some ideas to get you started:**
